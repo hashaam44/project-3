@@ -57,3 +57,11 @@ body{
     background: #282e34;
     color: #ddd;
 }
+@media (max-width: 500px){
+ .text-bg{
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+    
+    }
+}
